@@ -24,11 +24,11 @@ Download **Sketchy Extended** and **TU-Berlin** dataset by following [SEM-PCYC](
  - >Training & Testing
    - Sketchy 
 
-      `python main_sketch.py 
+      `python main_sketch.py `
 
     - TU-Berlin
 
-      `python main_tuberlin.py 
+      `python main_tuberlin.py `
 
 
 
