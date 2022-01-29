@@ -18,6 +18,17 @@ In this work, we propose a novel ZS-CMR modeltermed Multimodal Disentanglement V
 - Numpy 1.22.0
 
 ### Prepare datasets and pre-trained models
-Download **Sketchy Extended** dataset by following [SEM-PCYC](https://github.com/AnjanDutta/sem-pcyc).
+Download **Sketchy Extended** and **TU-Berlin** dataset by following [SEM-PCYC](https://github.com/AnjanDutta/sem-pcyc).
 
 ### Training & Testing
+ - >Training & Testing
+   - Sketchy 
+
+      `python main_sketch.py 
+
+    - TU-Berlin
+
+      `python main_tuberlin.py 
+
+
+
